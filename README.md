@@ -1,6 +1,6 @@
 # Hi, im ilan. I love cats and codes.
  
-<div align="left">
+<div align="center">
   <a href="https://github.com/nandotjs">
   
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=7&theme=tokyonight"/>
