@@ -1,9 +1,9 @@
 # Hi, im ilan. I love cats and codes.
  
-<div align="center">
+<div align="left">
   <a href="https://github.com/nandotjs">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <div>  
