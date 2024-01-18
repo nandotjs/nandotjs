@@ -1,4 +1,4 @@
-<h1> Hi, im ilan. I love cats and codes.</h1>
+<h1 align="center"> Hi, im ilan. I love cats and codes.</h1>
  
 <div align="center">
   <a href="https://github.com/nandotjs">
