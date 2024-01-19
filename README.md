@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=4&theme=dark&hide_title=true&show-icons=true"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=4&theme=dark&hide_title=true"/>
 </div>
 <br>
 <div align="center">  
