@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://github.com/nandotjs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=4&theme=dark&hide_title=true&show-icons=true"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandotjs&layout=compact&langs_count=4&theme=dark&hide_title=true&show-icons=true"/>
 </div>
 <br>
 <div align="center">  
